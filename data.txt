@@ -19,3 +19,10 @@
     "name": "Dave Rogers",
     "phone": "457009332"
 }
+{
+    "email": "andy@getarrays.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+    "jobTitle": "SQL",
+    "name": "Andy Maxwell",
+    "phone": "457009332"
+}
