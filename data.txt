@@ -13,7 +13,7 @@
     "phone": "457009332"
 }
 {
-    "email": "daniel@getarrays.com",
+    "email": "dave@getarrays.com",
     "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
     "jobTitle": "Java",
     "name": "Dave Rogers",
